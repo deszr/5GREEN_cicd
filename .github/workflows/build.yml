@@ -12,6 +12,6 @@ jobs:
       - name: Installation des packages JS
         run: npm install
       - name: Build l'application JS
-        run: npm build
+        run: npm run build
         
         
